@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+torch
+matplotlib
+xgboost
+plotly
+statsmodels   
+kaleido
+flask
+flask_cors
+gunicorn
